@@ -7,7 +7,7 @@
 * Emplear Visual Studio Code como editor de texto.
 * Tener descargado Git y vincular nuestro editor de texto a éste.
 
-### Descripción del Proyecto 🧐
+## Descripción del Proyecto 🧐
 El programa tiene el objetivo de cuantificar los caracteres alfabéticos presentes en una palabra ingresada por el usuario, sin embargo, el programa no puede aceptar caracteres numéricos.
 
 Primero es importante darle una bienvenida al usuario, así como indicarle qué características debe de cumplir para ejecutarlo de forma correcta.
@@ -32,5 +32,5 @@ Si esa condición no se cumple, sigue la condición ('elif : ') de que si los ca
 
 Sin embargo, existe la posibilidad de que no se cumpla ninguna de las condiciones anteriores, es decir, que se ingrese una palabra que cuente con carateres numéricos y alfabéticos ('else ( )'). Si esto sucede, se debe imprimir un mensaje el cual indique la palabra ingresada cuenta con caracteres numéricos y alfabéticos, por lo cual esta no es válida.
 
-### ¿Qué me ha dejado el Bootcamp? 🚀
+## ¿Qué me ha dejado el Bootcamp? 🚀
 Con este proyecto pude dame cuenta que el BootCamp me ha permitido comprender cómo hacer la correcta asignación de variables, así como el ingreso y solicitud de datos. Así mismo, he aprendido cómo 'castear' y obtener información a partir de los datos presentes a cada variable, y a partir de estos, establecer condiciones en el programa, de forma que se ejecuten condiciones específicas para cada posible situación que el usuario cometa, de forma que se cumpla con el objetivo y propósito del programa. Con todo esto, considero que lo más importante que he aprendido ha sido la organización y distribución de código, de forma que el programa tenga un orden, secuencia, pero sobretodo **coherencia**, para poder ejecutarse correctamente y cumplir con su propósito.
